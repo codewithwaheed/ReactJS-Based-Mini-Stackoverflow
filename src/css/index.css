@@ -1,0 +1,149 @@
+body {
+  font-family: "Jomolhari", serif;
+}
+.nav-item:hover {
+  color: #d35400;
+
+  transition-duration: 0.5s;
+  position: relative;
+}
+
+.headitem-active {
+  color: #d35400;
+  margin-top: 6px;
+
+  font-weight: bold;
+}
+.brandhead:hover {
+  color: #d35400;
+  transition-duration: 0.5s;
+}
+.headitem {
+  margin-top: 6px;
+
+  font-weight: bold;
+
+  color: #edbb99;
+}
+
+.brandhead {
+  color: #d35400;
+  font-weight: bold;
+}
+ul {
+  list-style-type: none;
+}
+.sideitem {
+  color: #d35400;
+  font-size: 13px;
+  font-weight: bold;
+
+  margin: 5%;
+}
+.sideitem:hover {
+  color: #d35400;
+}
+#sideBarBox {
+  width: 100%;
+  height: 100%;
+  margin-top: 1%;
+  padding-top: 10%;
+}
+.form-control::placeholder {
+  color: #d35400;
+}
+
+.loginBtn :hover {
+  background-color: #d35400;
+}
+.interestHead {
+  padding-top: 10%;
+  margin-top: 1%;
+  color: #d35400;
+  font-size: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+#interestBarBox {
+  width: 100%;
+  height: 100%;
+  margin-top: 1%;
+}
+.footer {
+  position: relative;
+  margin-top: 10px;
+  background-color: #273746;
+}
+.footerHead {
+  margin-top: 15px;
+  color: #d35400;
+}
+
+.social a {
+  font-size: 3rem;
+  padding: 3rem;
+}
+.fa-facebook {
+  color: #3b5998;
+}
+.fa-twitter {
+  color: #00aced;
+}
+.fa-google-plus-g {
+  color: #dd4b39;
+}
+.fa-instagram {
+  color: #517fa4;
+}
+.fa-youtube {
+  color: #bb0000;
+}
+.fa-facebook:hover,
+.fa-twitter:hover,
+.fa-google-plus-g:hover,
+.fa-instagram:hover,
+.fa-youtube:hover {
+  color: black;
+}
+.logo {
+  height: 30px;
+  width: 50px;
+}
+nav {
+  background-color: #ecf0f1 !important;
+}
+
+.sideBarList2 {
+  width: 100%;
+  margin: 10px;
+}
+
+.footer2 {
+  color: #d35400;
+}
+hr.light {
+  border-top: 1px solid black;
+  width: 75%;
+  margin-top: 0.8rem;
+  margin-bottom: 1rem;
+}
+hr.light-100 {
+  border-top: 1px solid black;
+  width: 100%;
+  margin-top: 0.8rem;
+  margin-bottom: 1rem;
+}
+a {
+  text-decoration: none;
+}
+.footerText {
+  font-size: 13px;
+}
+@media only screen and (max-width: 900px) {
+  #sideBarBox {
+    padding-top: 0%;
+  }
+}
+link {
+  list-style-type: none;
+}
