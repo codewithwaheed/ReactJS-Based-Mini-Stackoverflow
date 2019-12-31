@@ -1,4 +1,4 @@
-#`Deployed Site URL`
+# `Deployed Site URL`
 https://kind-torvalds-c57594.netlify.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +69,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+### `npm install --save react-router-dom`
+### `npm install --save react-icons`
+### `npm install --save styled-components`
+### `npm install --save firebase`
